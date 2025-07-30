@@ -14,7 +14,7 @@ A subscription tracker I built to help manage all those monthly payments that ad
 
 ## Built with
 
-React, TypeScript, Material-UI, Node.js, Express, MongoDB
+React,TypeScript, Material-UI, Node.js, Express, MongoDB
 
 ## Setup
 
